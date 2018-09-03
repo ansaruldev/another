@@ -1,0 +1,49 @@
+
+body{
+	margin: 0;
+	padding: 0;
+	background: #20374E;
+	font-family: tahoma;
+}
+.template{
+	width: 80%;
+	margin: auto;
+	background: #fff;
+	padding: 10px;
+	overflow: hidden;
+}
+header{
+	background: #20374E;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
+header p{
+	font-family: helvetica;
+	line-height: 27px;
+}
+.content-section{
+	display: block;
+	overflow: hidden;
+}
+.content{
+	width: 47%;
+	float: left;
+	padding: 15px;
+}
+.content-img{
+	width: 47%;
+	padding: 45px 15px 15px 15px;
+	float: left;
+	
+}
+.content-img img{
+	width: 100%;
+	height: auto;
+}
+footer{
+	background: #20374E;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
